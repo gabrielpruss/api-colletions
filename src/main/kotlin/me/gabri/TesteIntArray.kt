@@ -2,7 +2,7 @@ package me.gabri
 
 fun main(){
   val values = IntArray(5)
-
+  
     values[0] = 63
     values[1] = 12
     values[2] = 77
